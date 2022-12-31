@@ -1,5 +1,5 @@
 # Nim Game
-Mini project for Artificial Intelligence course.
+Mini project for Artificial Intelligence course using Combinatorial Game Theory.
 
 Execute the following command to run the game.
 > python3 nim.py
@@ -49,4 +49,6 @@ The cumulative XOR value of the number of objects in each pile at any point of t
       else change player and continue
 ```
 
-## Still from the game
+## Stills from the game
+![Still1](https://github.com/vasvi1203/Nim-Game/blob/master/still1.png)
+![Still2](https://github.com/vasvi1203/Nim-Game/blob/master/still2.png)
